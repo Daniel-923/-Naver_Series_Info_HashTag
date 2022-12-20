@@ -1,4 +1,5 @@
-# Naver_Series_Info_HashTag
+# Naver_Series_Info_HashTag APP
+- This Project is incomplete
 - With the crawled data, When the title and summary of the novel are included using topic modeling and Kobert, a highly relevant topic can be obtained.
 
 1. First, crawl in Naver_Series
